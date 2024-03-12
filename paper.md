@@ -1,8 +1,10 @@
 # Title
-Airdcraft measurments of biomass burning aerosols over West Africa
+
+Airdcraft measurments and simulations of biomass burning aerosols over West Africa
 
 # Author
 Cameron Peacock
+John Smith
 
 # Introduction
 We present aircraft measurements of ...
@@ -13,3 +15,6 @@ Wombat et al., 1969 found some cool stuff, yay
 try to configure git difftool
 
 We have just tagged the current branch code so it is easier to call back to
+
+#Added section
+This part should in theory be added to the main paper file when merged
