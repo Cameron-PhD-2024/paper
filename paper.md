@@ -1,5 +1,5 @@
 # Title
-Aging of biomass burning aerosols over West Africa
+Airdcraft measurments of biomass burning aerosols over West Africa
 
 # Author
 Cameron Peacock
