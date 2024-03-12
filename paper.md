@@ -8,3 +8,6 @@ Cameron Peacock
 We present aircraft measurements of ...
 
 Particle size was measured using ... (Wopper et al., 2012)
+Wombat et al., 1969 found some cool stuff, yay
+
+try to configure git difftool
