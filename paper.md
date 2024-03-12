@@ -21,3 +21,6 @@ This part should in theory be added to the main paper file when merged
 
 # Methods
 how to amend a commit, in this case commiting changes to one file but not another
+
+# Results
+Changes on "remote device"
