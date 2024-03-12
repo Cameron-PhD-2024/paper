@@ -27,3 +27,6 @@ Changes on "remote device"
 
 # Figures
 Use your imagination
+
+# Conclusion
+You merge and revert and reset and commit and add and........
