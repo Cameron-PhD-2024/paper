@@ -16,8 +16,8 @@ try to configure git difftool
 
 We have just tagged the current branch code so it is easier to call back to
 
-#Added section
+# Added section
 This part should in theory be added to the main paper file when merged
 
-#Methods
+# Methods
 how to amend a commit, in this case commiting changes to one file but not another
