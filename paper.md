@@ -24,3 +24,6 @@ how to amend a commit, in this case commiting changes to one file but not anothe
 
 # Results
 Changes on "remote device"
+
+# Figures
+Use your imagination
