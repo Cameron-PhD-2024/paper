@@ -3,8 +3,8 @@
 Airdcraft measurments and simulations of biomass burning aerosols over West Africa
 
 # Author
-Cameron Peacock
-John Smith
+Cameron Peacock, University of Manchester
+John Smith, N/A
 
 # Introduction
 We present aircraft measurements of ...
